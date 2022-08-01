@@ -1,8 +1,6 @@
 ### Sou Bruna Souza! 👋
 
-- 🔭 Procurando Estagios.
-- 🌱 Estudando HTML5, CSS3 e JS
-- 📫 Contate-me no email: brubis300s@gmai.com
+- 📫 Contate-me no email: bruunaa-souza@hotmail.com
 - 😄 Pronome: ela/dela
 
 <div style="display: inline_block"><br>
