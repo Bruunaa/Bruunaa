@@ -1,5 +1,5 @@
 ### Sou Bruna Souza! 👋
-- 🌱 Atualmente estou aprendendo Angular e Java
+- 🌱 Aprendendo sempre ...
 - 📫 Contate-me no email: bruunaa-souza@hotmail.com
 - 😄 Pronome: ela/dela
 
@@ -36,5 +36,3 @@
 </div>
 
 </div>
-
-![Snake animation](https://github.com/Bruunaa/Bruunaa/blob/output/github-contribution-grid-snake.svg)
